@@ -6,7 +6,7 @@
 5. Functions
 6. Data Structures (Lists)
 7.
-8.
+8. Data Structures (Dictionaries)
 9. Modular code
 10. buggy code answer: The quick brown fox
 
